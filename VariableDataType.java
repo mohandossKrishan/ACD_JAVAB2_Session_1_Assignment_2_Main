@@ -1,4 +1,4 @@
-class VariableDataType
+public class VariableDataType
 {  
 	public static void main(String args[])
 	{  
